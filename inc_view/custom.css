@@ -1,0 +1,39 @@
+.modal-table-wrap {
+    height: 300px;
+    overflow-y: auto;
+}
+th {
+    font-size: 12px;
+}
+td {
+    font-size: 11px;
+    vertical-align: top;
+}
+#payslipPeriod {
+    border: 2px solid Mediumslateblue;
+    font-weight: 600;
+}
+.text-color-late-blue {
+    color: Mediumslateblue;
+}
+.text-color-dodger-blue {
+    color: Dodgerblue;
+}
+.text-color-pink{
+    color: #f783ac;
+}
+.text-color-Tomato {
+    color: Tomato;
+}
+.text-2x {
+    font-size: 2em;
+}
+.text-muted {
+    font-size: 10px;
+}
+#login-section {
+    margin: 50px auto;
+    width: 50%;
+    border: 1px solid #f2f2f2;
+    padding: 10px;
+}
